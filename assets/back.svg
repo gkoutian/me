@@ -1,0 +1,170 @@
+<svg height="670" width="540" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  font-family="Arial, Helvetica, sans-serif">
+  
+  <text id="shape1" x="338" y="190" fill="#95b5d7" font-size="170px" >}</text>
+  <text id="shape2" x="434" y="100" fill="#808080" font-size="120px">//</text>
+  <text id="shape3" x="200" y="70" fill="#fdc0c0" font-size="90px">!=</text>
+  <text id="shape4" x="50" y="190" fill="#ebcf97" font-size="120px">[</text>
+  <text id="shape5" x="105" y="384" fill="#bfacea" font-size="200px">&lt;</text>
+  <text id="shape6" x="341" y="311" fill="#b3e9c8" font-size="120px">&amp;&amp;</text>
+  <text id="shape7" x="52" y="508" fill="#fbefaf" font-size="120px">{</text>
+  <text id="shape8" x="469" y="463" fill="#a7e8e2" font-size="120px">]</text>
+  <text id="shape9" x="137" y="610" fill="#cad3dc" font-size="70px">==</text>
+  <text id="shape10" x="442" y="617" fill="#df8c8c" font-size="90px">&gt;</text>
+  <text id="shape11" x="268" y="628" fill="#808080" font-size="200px">"</text>
+  <animate 
+      xlink:href="#shape1" 
+      attributeName="x" 
+      from="338" 
+      to="368" 
+      dur="15s" 
+      begin="0s"  
+      repeatCount="indefinite"
+      values="338; 368; 338; 308; 338"
+      keyTimes="0; 0.25; 0.5; 0.75; 1" 
+      fill="freeze" id="rect-anim"/>
+  <animate 
+      xlink:href="#shape5" 
+      attributeName="x" 
+      from="105" 
+      to="135" 
+      dur="15s" 
+      begin="0s"  
+      repeatCount="indefinite"
+      values="105; 135; 105; 75; 105"
+      keyTimes="0; 0.25; 0.5; 0.75; 1" 
+      fill="freeze" id="rect-anim"/>
+  <animate 
+      xlink:href="#shape6" 
+      attributeName="y" 
+      from="311" 
+      to="376" 
+      dur="15s" 
+      begin="0s"  
+      repeatCount="indefinite"
+      values="311; 341; 311; 281; 311"
+      keyTimes="0; 0.25; 0.5; 0.75; 1" 
+      fill="freeze" id="rect-anim"/>
+  <animate 
+      xlink:href="#shape4" 
+      attributeName="y" 
+      from="190" 
+      to="220" 
+      dur="15s" 
+      begin="0s"  
+      repeatCount="indefinite"
+      values="190; 160; 190; 220; 190"
+      keyTimes="0; 0.25; 0.5; 0.75; 1" 
+      fill="freeze" id="rect-anim"/>
+  <animate 
+      xlink:href="#shape4" 
+      attributeName="x" 
+      from="30" 
+      to="60" 
+      dur="15s" 
+      begin="0s"  
+      repeatCount="indefinite"
+      values="30; 60; 30; 0; 30"
+      keyTimes="0; 0.25; 0.5; 0.75; 1" 
+      fill="freeze" id="rect-anim"/>
+  <animate 
+      xlink:href="#shape9" 
+      attributeName="x" 
+      from="137" 
+      to="167" 
+      dur="15s" 
+      begin="0s"  
+      repeatCount="indefinite"
+      values="137; 107; 137; 167; 137"
+      keyTimes="0; 0.25; 0.5; 0.75; 1" 
+      fill="freeze" id="rect-anim"/>
+  <animate 
+      xlink:href="#shape8" 
+      attributeName="y" 
+      from="463" 
+      to="493" 
+      dur="15s" 
+      begin="0s"  
+      repeatCount="indefinite"
+      values="463; 433; 463; 493; 463"
+      keyTimes="0; 0.25; 0.5; 0.75; 1" 
+      fill="freeze" id="rect-anim"/>
+  <animate 
+      xlink:href="#shape10" 
+      attributeName="x" 
+      from="442" 
+      to="472" 
+      dur="15s" 
+      begin="0s"  
+      repeatCount="indefinite"
+      values="442; 412; 442; 472; 442"
+      keyTimes="0; 0.25; 0.5; 0.75; 1" 
+      fill="freeze" id="rect-anim"/>
+  <animate 
+      xlink:href="#shape10" 
+      attributeName="y" 
+      from="617" 
+      to="647" 
+      dur="15s" 
+      begin="0s"  
+      repeatCount="indefinite"
+      values="617; 587; 617; 647; 617"
+      keyTimes="0; 0.25; 0.5; 0.75; 1" 
+      fill="freeze" id="rect-anim"/>
+  <animate 
+      xlink:href="#shape11" 
+      attributeName="y" 
+      from="628" 
+      to="658" 
+      dur="15s" 
+      begin="0s"  
+      repeatCount="indefinite"
+      values="628; 658; 628; 598; 628"
+      keyTimes="0; 0.25; 0.5; 0.75; 1" 
+      fill="freeze" id="rect-anim"/>
+  <animate 
+      xlink:href="#shape11" 
+      attributeName="x" 
+      from="268" 
+      to="298" 
+      dur="15s" 
+      begin="0s"  
+      repeatCount="indefinite"
+      values="268; 238; 268; 298; 268"
+      keyTimes="0; 0.25; 0.5; 0.75; 1" 
+      fill="freeze" id="rect-anim"/>
+
+  <animate 
+      xlink:href="#shape7" 
+      attributeName="y" 
+      from="508" 
+      to="538" 
+      dur="15s" 
+      begin="0s"  
+      repeatCount="indefinite"
+      values="508; 478; 508; 538; 508"
+      keyTimes="0; 0.25; 0.5; 0.75; 1" 
+      fill="freeze" id="rect-anim"/>
+  <animate 
+      xlink:href="#shape7" 
+      attributeName="x" 
+      from="52" 
+      to="82" 
+      dur="15s" 
+      begin="0s"  
+      repeatCount="indefinite"
+      values="52; 102; 52; 28; 52"
+      keyTimes="0; 0.25; 0.5; 0.75; 1" 
+      fill="freeze" id="rect-anim"/>
+
+  <animate 
+      xlink:href="#shape3" 
+      attributeName="y" 
+      from="70" 
+      to="100" 
+      dur="15s" 
+      begin="0s"  
+      repeatCount="indefinite"
+      values="70; 100; 70; 40; 70"
+      keyTimes="0; 0.25; 0.5; 0.75; 1" 
+      fill="freeze" id="rect-anim"/>
+</svg>
