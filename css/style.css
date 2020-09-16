@@ -99,7 +99,7 @@ main .imageColumn {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url('./assets/back.svg?12');
+  background-image: url('../assets/back.svg?12');
   background-size: contain;
   background-repeat: no-repeat;
   background-position-x: center;
